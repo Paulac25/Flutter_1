@@ -72,7 +72,7 @@ class ProfilePage extends StatelessWidget {
                           ],
                         ),
                       ),
-                      // Íconos a la derecha
+
                       Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
@@ -148,7 +148,7 @@ class ProfilePage extends StatelessWidget {
 
                     const SizedBox(width: 16),
 
-                    // Proyectos
+     
                     Expanded(
                       flex: 2,
                       child: Column(
